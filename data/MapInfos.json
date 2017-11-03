@@ -1,17 +1,18 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Minijuego1","order":1,"parentId":0,"scrollX":497,"scrollY":433},
-{"id":2,"expanded":false,"name":"Minijuego2","order":2,"parentId":0,"scrollX":497,"scrollY":433},
+{"id":1,"expanded":false,"name":"Minijuego1","order":1,"parentId":0,"scrollX":499,"scrollY":363.5},
+{"id":2,"expanded":false,"name":"Minijuego2","order":2,"parentId":0,"scrollX":499,"scrollY":363.5},
 {"id":3,"expanded":false,"name":"Minijuego3","order":3,"parentId":0,"scrollX":499,"scrollY":363.5},
-{"id":4,"expanded":false,"name":"Minijuego4","order":4,"parentId":0,"scrollX":491,"scrollY":363.5},
-{"id":5,"expanded":false,"name":"Inicio","order":5,"parentId":0,"scrollX":1066,"scrollY":501},
-{"id":6,"expanded":false,"name":"Empresa_Exterior","order":6,"parentId":0,"scrollX":491,"scrollY":501},
-{"id":7,"expanded":false,"name":"Nvl_1_1","order":7,"parentId":0,"scrollX":949,"scrollY":817.5},
-{"id":8,"expanded":false,"name":"Tienda de armas","order":8,"parentId":0,"scrollX":491,"scrollY":325},
-{"id":9,"expanded":false,"name":"Tienda de artículos","order":9,"parentId":0,"scrollX":491,"scrollY":307},
-{"id":10,"expanded":false,"name":"Pensión 1F","order":10,"parentId":0,"scrollX":517,"scrollY":661},
+{"id":4,"expanded":false,"name":"Minijuego4","order":4,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":false,"name":"Inicio","order":5,"parentId":0,"scrollX":1066,"scrollY":501.5},
+{"id":6,"expanded":false,"name":"Empresa_Exterior","order":6,"parentId":0,"scrollX":491,"scrollY":452.5},
+{"id":7,"expanded":false,"name":"Nvl_1_1","order":7,"parentId":0,"scrollX":949,"scrollY":355.5},
+{"id":8,"expanded":false,"name":"Tienda de armas","order":8,"parentId":0,"scrollX":509,"scrollY":355.5},
+{"id":9,"expanded":false,"name":"Tienda de artículos","order":9,"parentId":0,"scrollX":499,"scrollY":363.5},
+{"id":10,"expanded":false,"name":"Pensión 1F","order":10,"parentId":0,"scrollX":504,"scrollY":604.5},
 {"id":11,"expanded":false,"name":"Tienda de armaduras","order":11,"parentId":0,"scrollX":499,"scrollY":363.5},
 {"id":12,"expanded":false,"name":"Minijuego5","order":12,"parentId":0,"scrollX":499,"scrollY":363.5},
 {"id":13,"expanded":false,"name":"Minijuego6","order":13,"parentId":0,"scrollX":499,"scrollY":363.5},
-{"id":14,"expanded":false,"name":"Minijuego7","order":14,"parentId":0,"scrollX":499,"scrollY":363.5}
+{"id":14,"expanded":false,"name":"Minijuego7","order":14,"parentId":0,"scrollX":499,"scrollY":363.5},
+{"id":15,"expanded":false,"name":"Minijuego8","order":15,"parentId":0,"scrollX":499,"scrollY":363.5}
 ]
