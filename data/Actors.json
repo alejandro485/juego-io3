@@ -1,7 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_2","characterIndex":2,"characterName":"People4","classId":1,"equips":[1,1,2,3,0],"faceIndex":2,"faceName":"People4","traits":[],"initialLevel":1,"maxLevel":99,"name":"Markov","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Actor1_2","characterIndex":0,"characterName":"Actor3","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Markov","nickname":"","note":"","profile":""}
 ]
