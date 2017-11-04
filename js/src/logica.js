@@ -4,6 +4,28 @@ var cargo = {};
 var matriz = [];
 var matrizJuego = [];
 var reputacion = 0;
+var preguntaActual = {};
+
+function iniciarVariables() {
+    indiceCargo = 0;
+    cargos = [];
+    cargo = {};
+    matriz = [];
+    matrizJuego = [];
+    reputacion = 0;
+    preguntaActual = {};
+
+    cargos = [
+        cargarJunior(),
+        cargarSemiSenior(),
+        cargarSenior(),
+        cargarManager()
+    ];
+    cargo = cargos[indiceCargo];
+    matriz = iniciarMatriz();
+    matrizJuego = matriz;
+    
+};
 
 function iniciarMatriz() {
     var matriz = [
@@ -62,7 +84,8 @@ function traerPregunta() {
         }
     }
     var indice = Math.round(Math.random() * (preguntas.length - 1));
-    return preguntas[indice];
+    preguntaActual = preguntas[indice];
+    return preguntaActual;
 }
 
 function verficarCelda(i, j) {
@@ -72,12 +95,10 @@ function verficarCelda(i, j) {
 }
 
 function cambioCargo(indice) {
+    indiceCargo = indice;
     if (indice >= 0) {
-        indiceCargo = indice;
         cargo = cargos[indice];
         reputacion = 0;
-    } else {
-        alert("perdistes papu");
     }
 }
 
@@ -97,13 +118,15 @@ function eleccion(i) {
     return verificacion;
 }
 
-indiceCargo = 0;
-cargos = [
-    cargarJunior(),
-    cargarSemiSenior(),
-    cargarSenior(),
-    cargarManager()
-];
-cargo = cargos[indiceCargo];
-matriz = iniciarMatriz();
-matrizJuego = matriz;
+function falloEleccion() {
+    reputacion--;
+    if(reputacion <= -3) {
+        cambioCargo(indiceCargo - 1);
+    } else if (reputacion >= 3) {
+        cambioCargo(indiceCargo + 1);
+    }
+    matrizJuego = multiplicarMatriz(matrizJuego, matriz);
+    return verificacion;
+}
+
+iniciarVariables();

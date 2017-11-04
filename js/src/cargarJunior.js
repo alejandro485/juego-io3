@@ -1,73 +1,118 @@
 function cargarJunior() {
     var junior = {
-        nombre: "junior",
-        "preguntas": [
+        nombre: "Junior",
+        preguntas: [
             {
-                "texto": "junior",
-                "asunto": "LaWea 1",
-                "repeticiones": 0,
-                "opciones": [
+                texto: "Traeme el informe de costos de este mes",
+                repeticiones: 0,
+                opciones: [
                     {
-                        "texto": "junior",
-                        "cargo": 0
+                        interaccion: "Dejame buscarlo",
+                        aceptacion: "listo, pero primero",
+                        cancelacion: "bueno, sera despues entonces",
+                        fallo: "bueno, sera en otra ocasion",
+                        pasoProbable: "listo, aqui esta",
+                        noPasoProbable: "No lo tengo a la mano, que pena"
                     },
                     {
-                        "texto": "semi senior",
-                        "cargo": 1
+                        interaccion: "Dejame buscarlo",
+                        aceptacion: "listo, pero primero",
+                        cancelacion: "bueno, sera despues entonces",
+                        fallo: "bueno, sera en otra ocasion",
+                        pasoProbable: "listo, aqui esta",
+                        noPasoProbable: "No lo tengo a la mano, que pena"
                     },
                     {
-                        "texto": "senior",
-                        "cargo": 2
+                        interaccion: "Dejame buscarlo",
+                        aceptacion: "listo, pero primero",
+                        cancelacion: "bueno, sera despues entonces",
+                        fallo: "bueno, sera en otra ocasion",
+                        pasoProbable: "listo, aqui esta",
+                        noPasoProbable: "No lo tengo a la mano, que pena"
                     },
                     {
-                        "texto": "arquitecto",
-                        "cargo": 3   
+                        interaccion: "Dejame buscarlo",
+                        aceptacion: "listo, pero primero",
+                        cancelacion: "bueno, sera despues entonces",
+                        fallo: "bueno, sera en otra ocasion",
+                        pasoProbable: "listo, aqui esta",
+                        noPasoProbable: "No lo tengo a la mano, que pena"
                     }
                 ]
             },
             {
-                "texto": "junior",
-                "asunto": "LaWea 2",
-                "repeticiones": 0,
-                "opciones": [
+                texto: "Traeme un cafe",
+                repeticiones: 0,
+                opciones: [
                     {
-                        "texto": "junior",
-                        "cargo": 0
+                        interaccion: "Dejame buscarlo",
+                        aceptacion: "listo, pero primero",
+                        cancelacion: "bueno, sera despues entonces",
+                        fallo: "bueno, sera en otra ocasion",
+                        pasoProbable: "listo, aqui esta",
+                        noPasoProbable: "No lo tengo a la mano, que pena"
                     },
                     {
-                        "texto": "semi senior",
-                        "cargo": 1
+                        interaccion: "Dejame buscarlo",
+                        aceptacion: "listo, pero primero",
+                        cancelacion: "bueno, sera despues entonces",
+                        fallo: "bueno, sera en otra ocasion",
+                        pasoProbable: "listo, aqui esta",
+                        noPasoProbable: "No lo tengo a la mano, que pena"
                     },
                     {
-                        "texto": "senior",
-                        "cargo": 2
+                        interaccion: "Dejame buscarlo",
+                        aceptacion: "listo, pero primero",
+                        cancelacion: "bueno, sera despues entonces",
+                        fallo: "bueno, sera en otra ocasion",
+                        pasoProbable: "listo, aqui esta",
+                        noPasoProbable: "No lo tengo a la mano, que pena"
                     },
                     {
-                        "texto": "arquitecto",
-                        "cargo": 3   
+                        interaccion: "Dejame buscarlo",
+                        aceptacion: "listo, pero primero",
+                        cancelacion: "bueno, sera despues entonces",
+                        fallo: "bueno, sera en otra ocasion",
+                        pasoProbable: "listo, aqui esta",
+                        noPasoProbable: "No lo tengo a la mano, que pena"
                     }
                 ]
             },
             {
-                "texto": "junior",
-                "asunto": "LaWea 3",
-                "repeticiones": 0,
-                "opciones": [
+                texto: "Necesito que formes pareja con alguien del piso para la actividad de recreacion de la oficina",
+                repeticiones: 0,
+                opciones: [
                     {
-                        "texto": "junior",
-                        "cargo": 0
+                        interaccion: "Dejame buscarlo",
+                        aceptacion: "listo, pero primero",
+                        cancelacion: "bueno, sera despues entonces",
+                        fallo: "bueno, sera en otra ocasion",
+                        pasoProbable: "listo, aqui esta",
+                        noPasoProbable: "No lo tengo a la mano, que pena"
                     },
                     {
-                        "texto": "semi senior",
-                        "cargo": 1
+                        interaccion: "Dejame buscarlo",
+                        aceptacion: "listo, pero primero",
+                        cancelacion: "bueno, sera despues entonces",
+                        fallo: "bueno, sera en otra ocasion",
+                        pasoProbable: "listo, aqui esta",
+                        noPasoProbable: "No lo tengo a la mano, que pena"
                     },
                     {
-                        "texto": "senior",
-                        "cargo": 2
+                        interaccion: "Dejame buscarlo",
+                        aceptacion: "listo, pero primero",
+                        cancelacion: "bueno, sera despues entonces",
+                        fallo: "bueno, sera en otra ocasion",
+                        pasoProbable: "listo, aqui esta",
+                        noPasoProbable: "No lo tengo a la mano, que pena"
                     },
                     {
-                        "texto": "arquitecto",
-                        "cargo": 3   
+                        interaccion: "Dejame buscarlo",
+                        aceptacion: "listo, pero primero",
+                        cancelacion: "bueno, sera despues entonces",
+                        fallo: "bueno, sera en otra ocasion",
+                        pasoProbable: "listo, aqui esta",
+                        noPasoProbable: "No lo tengo a la mano, que pena"
                     }
                 ]
             }
