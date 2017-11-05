@@ -1,42 +1,42 @@
 function cargarSenior() {
     var senior = {
-        nombre: "Lider de desarrollo",
+        nombre: "Junior",
         preguntas: [
             {
                 texto: "Traeme el informe de costos de este mes",
                 repeticiones: 0,
                 opciones: [
                     {
-                        interaccion: "Dejame buscarlo",
-                        aceptacion: "listo, pero primero",
-                        cancelacion: "bueno, sera despues entonces",
-                        fallo: "bueno, sera en otra ocasion",
-                        pasoProbable: "listo, aqui esta",
-                        noPasoProbable: "No lo tengo a la mano, que pena"
+                        interaccion: "Dejame buscarlo, pero antes necesito un favor",
+                        aceptacion: "listo, lo que tienes que hacer es muy sencillo",
+                        cancelacion: "Vale, sera en otra ocasion",
+                        fallo: "Bueno, sera en otra ocasion",
+                        probable: "listo, aqui esta",
+                        improbable: "No lo tengo a la mano, que pena"
                     },
                     {
-                        interaccion: "Dejame buscarlo",
-                        aceptacion: "listo, pero primero",
-                        cancelacion: "bueno, sera despues entonces",
-                        fallo: "bueno, sera en otra ocasion",
-                        pasoProbable: "listo, aqui esta",
-                        noPasoProbable: "No lo tengo a la mano, que pena"
+                        interaccion: "Dejame buscarlo, pero antes necesito un favor",
+                        aceptacion: "listo, lo que tienes que hacer es muy sencillo",
+                        cancelacion: "Vale, sera en otra ocasion",
+                        fallo: "Bueno, sera en otra ocasion",
+                        probable: "listo, aqui esta",
+                        improbable: "No lo tengo a la mano, que pena"
                     },
                     {
-                        interaccion: "Dejame buscarlo",
-                        aceptacion: "listo, pero primero",
-                        cancelacion: "bueno, sera despues entonces",
-                        fallo: "bueno, sera en otra ocasion",
-                        pasoProbable: "listo, aqui esta",
-                        noPasoProbable: "No lo tengo a la mano, que pena"
+                        interaccion: "Dejame buscarlo, pero antes necesito un favor",
+                        aceptacion: "listo, lo que tienes que hacer es muy sencillo",
+                        cancelacion: "Vale, sera en otra ocasion",
+                        fallo: "Bueno, sera en otra ocasion",
+                        probable: "listo, aqui esta",
+                        improbable: "No lo tengo a la mano, que pena"
                     },
                     {
-                        interaccion: "Dejame buscarlo",
-                        aceptacion: "listo, pero primero",
-                        cancelacion: "bueno, sera despues entonces",
-                        fallo: "bueno, sera en otra ocasion",
-                        pasoProbable: "listo, aqui esta",
-                        noPasoProbable: "No lo tengo a la mano, que pena"
+                        interaccion: "Dejame buscarlo, pero antes necesito un favor",
+                        aceptacion: "listo, lo que tienes que hacer es muy sencillo",
+                        cancelacion: "Vale, sera en otra ocasion",
+                        fallo: "Bueno, sera en otra ocasion",
+                        probable: "listo, aqui esta",
+                        improbable: "No lo tengo a la mano, que pena"
                     }
                 ]
             },
@@ -45,36 +45,36 @@ function cargarSenior() {
                 repeticiones: 0,
                 opciones: [
                     {
-                        interaccion: "Dejame buscarlo",
-                        aceptacion: "listo, pero primero",
-                        cancelacion: "bueno, sera despues entonces",
-                        fallo: "bueno, sera en otra ocasion",
-                        pasoProbable: "listo, aqui esta",
-                        noPasoProbable: "No lo tengo a la mano, que pena"
+                        interaccion: "Dejame buscarlo, pero antes necesito un favor",
+                        aceptacion: "listo, lo que tienes que hacer es muy sencillo",
+                        cancelacion: "Vale, sera en otra ocasion",
+                        fallo: "Bueno, sera en otra ocasion",
+                        probable: "listo, aqui esta",
+                        improbable: "No lo tengo a la mano, que pena"
                     },
                     {
-                        interaccion: "Dejame buscarlo",
-                        aceptacion: "listo, pero primero",
-                        cancelacion: "bueno, sera despues entonces",
-                        fallo: "bueno, sera en otra ocasion",
-                        pasoProbable: "listo, aqui esta",
-                        noPasoProbable: "No lo tengo a la mano, que pena"
+                        interaccion: "Dejame buscarlo, pero antes necesito un favor",
+                        aceptacion: "listo, lo que tienes que hacer es muy sencillo",
+                        cancelacion: "Vale, sera en otra ocasion",
+                        fallo: "Bueno, sera en otra ocasion",
+                        probable: "listo, aqui esta",
+                        improbable: "No lo tengo a la mano, que pena"
                     },
                     {
-                        interaccion: "Dejame buscarlo",
-                        aceptacion: "listo, pero primero",
-                        cancelacion: "bueno, sera despues entonces",
-                        fallo: "bueno, sera en otra ocasion",
-                        pasoProbable: "listo, aqui esta",
-                        noPasoProbable: "No lo tengo a la mano, que pena"
+                        interaccion: "Dejame buscarlo, pero antes necesito un favor",
+                        aceptacion: "listo, lo que tienes que hacer es muy sencillo",
+                        cancelacion: "Vale, sera en otra ocasion",
+                        fallo: "Bueno, sera en otra ocasion",
+                        probable: "listo, aqui esta",
+                        improbable: "No lo tengo a la mano, que pena"
                     },
                     {
-                        interaccion: "Dejame buscarlo",
-                        aceptacion: "listo, pero primero",
-                        cancelacion: "bueno, sera despues entonces",
-                        fallo: "bueno, sera en otra ocasion",
-                        pasoProbable: "listo, aqui esta",
-                        noPasoProbable: "No lo tengo a la mano, que pena"
+                        interaccion: "Dejame buscarlo, pero antes necesito un favor",
+                        aceptacion: "listo, lo que tienes que hacer es muy sencillo",
+                        cancelacion: "Vale, sera en otra ocasion",
+                        fallo: "Bueno, sera en otra ocasion",
+                        probable: "listo, aqui esta",
+                        improbable: "No lo tengo a la mano, que pena"
                     }
                 ]
             },
@@ -83,36 +83,36 @@ function cargarSenior() {
                 repeticiones: 0,
                 opciones: [
                     {
-                        interaccion: "Dejame buscarlo",
-                        aceptacion: "listo, pero primero",
-                        cancelacion: "bueno, sera despues entonces",
-                        fallo: "bueno, sera en otra ocasion",
-                        pasoProbable: "listo, aqui esta",
-                        noPasoProbable: "No lo tengo a la mano, que pena"
+                        interaccion: "Dejame buscarlo, pero antes necesito un favor",
+                        aceptacion: "listo, lo que tienes que hacer es muy sencillo",
+                        cancelacion: "Vale, sera en otra ocasion",
+                        fallo: "Bueno, sera en otra ocasion",
+                        probable: "listo, aqui esta",
+                        improbable: "No lo tengo a la mano, que pena"
                     },
                     {
-                        interaccion: "Dejame buscarlo",
-                        aceptacion: "listo, pero primero",
-                        cancelacion: "bueno, sera despues entonces",
-                        fallo: "bueno, sera en otra ocasion",
-                        pasoProbable: "listo, aqui esta",
-                        noPasoProbable: "No lo tengo a la mano, que pena"
+                        interaccion: "Dejame buscarlo, pero antes necesito un favor",
+                        aceptacion: "listo, lo que tienes que hacer es muy sencillo",
+                        cancelacion: "Vale, sera en otra ocasion",
+                        fallo: "Bueno, sera en otra ocasion",
+                        probable: "listo, aqui esta",
+                        improbable: "No lo tengo a la mano, que pena"
                     },
                     {
-                        interaccion: "Dejame buscarlo",
-                        aceptacion: "listo, pero primero",
-                        cancelacion: "bueno, sera despues entonces",
-                        fallo: "bueno, sera en otra ocasion",
-                        pasoProbable: "listo, aqui esta",
-                        noPasoProbable: "No lo tengo a la mano, que pena"
+                        interaccion: "Dejame buscarlo, pero antes necesito un favor",
+                        aceptacion: "listo, lo que tienes que hacer es muy sencillo",
+                        cancelacion: "Vale, sera en otra ocasion",
+                        fallo: "Bueno, sera en otra ocasion",
+                        probable: "listo, aqui esta",
+                        improbable: "No lo tengo a la mano, que pena"
                     },
                     {
-                        interaccion: "Dejame buscarlo",
-                        aceptacion: "listo, pero primero",
-                        cancelacion: "bueno, sera despues entonces",
-                        fallo: "bueno, sera en otra ocasion",
-                        pasoProbable: "listo, aqui esta",
-                        noPasoProbable: "No lo tengo a la mano, que pena"
+                        interaccion: "Dejame buscarlo, pero antes necesito un favor",
+                        aceptacion: "listo, lo que tienes que hacer es muy sencillo",
+                        cancelacion: "Vale, sera en otra ocasion",
+                        fallo: "Bueno, sera en otra ocasion",
+                        probable: "listo, aqui esta",
+                        improbable: "No lo tengo a la mano, que pena"
                     }
                 ]
             }

@@ -126,7 +126,19 @@ function falloEleccion() {
         cambioCargo(indiceCargo + 1);
     }
     matrizJuego = multiplicarMatriz(matrizJuego, matriz);
-    return verificacion;
+    return false;
+}
+
+function separarTexto(texto){
+    var len = texto.length;
+    var textoFinal = "";
+    for(var i = 0; i < len; i++) {
+        if(i % 43 == 0 && i != 0) {
+            textoFinal += "\n";
+        }
+        textoFinal += texto.charAt(i);
+    }
+    return textoFinal;
 }
 
 iniciarVariables();
