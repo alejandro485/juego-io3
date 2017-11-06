@@ -1,6 +1,5 @@
 function cargarSenior() {
     var senior = {
-        nombre: "Junior",
         preguntas: [
             {
                 texto: "Traeme el informe de costos de este mes",

@@ -91,7 +91,8 @@ function traerPregunta() {
 function verficarCelda(i, j) {
     var probabilidad = matrizJuego[i][j];
     var random = Math.random();
-    return random <= probabilidad;
+    //return random <= probabilidad;
+    return true;
 }
 
 function cambioCargo(indice) {
@@ -109,22 +110,12 @@ function eleccion(i) {
     } else {
         reputacion--;
     }
-    if(reputacion <= -3) {
-        cambioCargo(indiceCargo - 1);
-    } else if (reputacion >= 3) {
-        cambioCargo(indiceCargo + 1);
-    }
     matrizJuego = multiplicarMatriz(matrizJuego, matriz);
     return verificacion;
 }
 
 function falloEleccion() {
     reputacion--;
-    if(reputacion <= -3) {
-        cambioCargo(indiceCargo - 1);
-    } else if (reputacion >= 3) {
-        cambioCargo(indiceCargo + 1);
-    }
     matrizJuego = multiplicarMatriz(matrizJuego, matriz);
     return false;
 }

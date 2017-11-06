@@ -1,6 +1,5 @@
 function cargarSemiSenior() {
     var semiSenior = {
-        nombre: "Junior",
         preguntas: [
             {
                 texto: "Traeme el informe de costos de este mes",

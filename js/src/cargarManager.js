@@ -1,6 +1,5 @@
 function cargarManager() {
     var manager = {
-        nombre: "Junior",
         preguntas: [
             {
                 texto: "Traeme el informe de costos de este mes",

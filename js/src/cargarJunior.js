@@ -1,6 +1,5 @@
 function cargarJunior() {
     var junior = {
-        nombre: "Junior",
         preguntas: [
             {
                 texto: "Traeme el informe de costos de este mes, cualquiera del piso se lo puede facilitar",
