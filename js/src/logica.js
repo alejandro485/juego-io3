@@ -91,8 +91,7 @@ function traerPregunta() {
 function verficarCelda(i, j) {
     var probabilidad = matrizJuego[i][j];
     var random = Math.random();
-    //return random <= probabilidad;
-    return true;
+    return random <= (probabilidad * 2);
 }
 
 function cambioCargo(indice) {
@@ -111,12 +110,14 @@ function eleccion(i) {
         reputacion--;
     }
     matrizJuego = multiplicarMatriz(matrizJuego, matriz);
+    console.log("matrizJuego: ",matrizJuego);
     return verificacion;
 }
 
 function falloEleccion() {
     reputacion--;
     matrizJuego = multiplicarMatriz(matrizJuego, matriz);
+    console.log("matrizJuego: ",matrizJuego);
     return false;
 }
 
