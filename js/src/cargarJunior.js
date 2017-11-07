@@ -2,7 +2,7 @@ function cargarJunior() {
     var junior = {
         preguntas: [
             {
-                texto: "Traeme el informe de costos de este mes, cualquiera del piso se lo puede facilitar",
+                texto: "Traeme el informe de costos de este mes, cualquiera \n del piso se lo puede facilitar",
                 repeticiones: 0,
                 opciones: [
                     { /// Opcion para el minijuego de disparos
@@ -14,7 +14,7 @@ function cargarJunior() {
                         improbable: "No lo tenia yo, que pena, lo siento"
                     },
                     {
-                        interaccion: "Dejame buscarlo, pero antes necesito un favor",
+                        interaccion: "dos",
                         aceptacion: "listo, lo que tienes que hacer es muy sencillo",
                         cancelacion: "Vale, sera en otra ocasion",
                         fallo: "Bueno, sera en otra ocasion",
@@ -22,7 +22,7 @@ function cargarJunior() {
                         improbable: "No lo tengo a la mano, que pena"
                     },
                     {
-                        interaccion: "Dejame buscarlo, pero antes necesito un favor",
+                        interaccion: "tres",
                         aceptacion: "listo, lo que tienes que hacer es muy sencillo",
                         cancelacion: "Vale, sera en otra ocasion",
                         fallo: "Bueno, sera en otra ocasion",
@@ -30,7 +30,7 @@ function cargarJunior() {
                         improbable: "No lo tengo a la mano, que pena"
                     },
                     {
-                        interaccion: "Dejame buscarlo, pero antes necesito un favor",
+                        interaccion: "ciatrp",
                         aceptacion: "listo, lo que tienes que hacer es muy sencillo",
                         cancelacion: "Vale, sera en otra ocasion",
                         fallo: "Bueno, sera en otra ocasion",
