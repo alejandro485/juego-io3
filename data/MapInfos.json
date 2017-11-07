@@ -17,8 +17,8 @@ null,
 {"id":15,"expanded":false,"name":"Nvl_3_4","order":9,"parentId":18,"scrollX":497,"scrollY":428.5},
 {"id":16,"expanded":false,"name":"Minijuego9","order":28,"parentId":32,"scrollX":499,"scrollY":363.5},
 {"id":17,"expanded":false,"name":"Nvl_2_0","order":18,"parentId":0,"scrollX":709,"scrollY":640.5},
-{"id":18,"expanded":false,"name":"Nvl_3_0","order":8,"parentId":0,"scrollX":695,"scrollY":420.5},
-{"id":19,"expanded":false,"name":"Nvl_4_0","order":13,"parentId":0,"scrollX":491,"scrollY":1084.5},
+{"id":18,"expanded":false,"name":"Nvl_3_0","order":8,"parentId":0,"scrollX":709,"scrollY":844.5},
+{"id":19,"expanded":false,"name":"Nvl_4_0","order":13,"parentId":0,"scrollX":518,"scrollY":355.5},
 {"id":20,"expanded":false,"name":"Nvl_1_1","order":4,"parentId":7,"scrollX":497,"scrollY":428.5},
 {"id":21,"expanded":false,"name":"Nvl_1_2","order":5,"parentId":7,"scrollX":497,"scrollY":428.5},
 {"id":22,"expanded":false,"name":"Nvl_1_3","order":6,"parentId":7,"scrollX":497,"scrollY":428.5},
@@ -34,5 +34,5 @@ null,
 {"id":32,"expanded":false,"name":"Minijuegos","order":24,"parentId":0,"scrollX":497,"scrollY":428.5},
 {"id":33,"expanded":false,"name":"Win","order":33,"parentId":0,"scrollX":497,"scrollY":428.5},
 {"id":34,"expanded":false,"name":"Lose","order":34,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":35,"expanded":false,"name":"Win_2","order":35,"parentId":0,"scrollX":497,"scrollY":428.5}
+{"id":35,"expanded":false,"name":"Win_2","order":35,"parentId":0,"scrollX":491,"scrollY":363.5}
 ]
